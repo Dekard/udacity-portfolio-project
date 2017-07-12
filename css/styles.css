@@ -1,0 +1,60 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+.bar {
+  width: 100%;
+  height: 2px;
+  margin: 20px 0px;
+  display: flex;
+  border-color: #BCBBBB;
+  border-style: solid none;
+  border-width: 2px;
+}
+
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 45px;
+}
+.title-text {
+    padding-top: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    border-radius: 50%;
+	display: inline-block;
+}
+
+hr {
+
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: 325px;
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.modal-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
